@@ -64,12 +64,11 @@ Shows available drives, file system format, total disk size, and free space.
 ### Network Connectivity Test
 Demonstrates a successful ping test used to verify host connectivity.
 
-![Ping Test](screenshots/ping-test.png)
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/508d2279-4dc2-4afa-ae2f-99d6581784d4" />
 
 ### Exported Report
 Shows the generated system report file created by the application.
 
-![Exported Report](screenshots/export-report.png)
 
 ## project Relevance
 
