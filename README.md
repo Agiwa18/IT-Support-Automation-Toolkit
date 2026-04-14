@@ -59,7 +59,7 @@ Displays machine name, operating system, processor count, and .NET version.
 ### Disk Space Check
 Shows available drives, file system format, total disk size, and free space.
 
-![Disk Space Check](screenshots/disk-space-check.png)
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/cfd4c14d-2ccf-42a3-a058-2948c10f7f7b" />
 
 ### Network Connectivity Test
 Demonstrates a successful ping test used to verify host connectivity.
