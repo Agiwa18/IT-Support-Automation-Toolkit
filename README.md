@@ -49,7 +49,7 @@ dotnet run
 ### Main Menu
 Shows the menu-driven interface of the IT Support Automation Toolkit.
 
-![Main Menu](screenshots/main-menu.png)
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/cff9544f-af3a-4c85-94a3-c73da92a893d" />
 
 ### System Information
 Displays machine name, operating system, processor count, and .NET version.
