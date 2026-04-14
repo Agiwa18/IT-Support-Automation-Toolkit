@@ -68,6 +68,7 @@ Demonstrates a successful ping test used to verify host connectivity.
 
 ### Exported Report
 Shows the generated system report file created by the application.
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/f970c91f-fab1-49b3-9d9a-631c79d75850" />
 
 
 ## project Relevance
