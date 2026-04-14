@@ -54,7 +54,7 @@ Shows the menu-driven interface of the IT Support Automation Toolkit.
 ### System Information
 Displays machine name, operating system, processor count, and .NET version.
 
-![System Information](screenshots/system-info.png)
+<img width="3024" height="1964" alt="image" src="https://github.com/user-attachments/assets/5a94a23f-0271-4c02-9517-94c60be4ea08" />
 
 ### Disk Space Check
 Shows available drives, file system format, total disk size, and free space.
